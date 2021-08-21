@@ -1,1 +1,1 @@
-k8s.gcr.io/descheduler/descheduler:v0.21.0
+k8s.gcr.io/descheduler/descheduler:v0.20.0
